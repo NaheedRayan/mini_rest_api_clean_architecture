@@ -1,6 +1,6 @@
 
 
-# **Mini REST API - Shikho**
+# **Mini REST API - Clean Architecture**
 
 A feature-rich REST API prototype designed for managing an online learning platform, built with Go, using **Gin** as the web framework and **Sqlite3** for database interactions. This API allows course management, user management, enrollment handling, and more.
 
@@ -209,9 +209,9 @@ Here’s the revised project setup with the correct module path:
 Create a directory for your project and initialize the Go module:
 
 ```bash
-mkdir mini_rest_api_shikho
-cd mini_rest_api_shikho
-go mod init github.com/username/mini_rest_api_shikho
+mkdir mini_rest_api_clean_architecture
+cd mini_rest_api_clean_architecture
+go mod init github.com/username/mini_rest_api_clean_architecture
 ```
 
 ---
